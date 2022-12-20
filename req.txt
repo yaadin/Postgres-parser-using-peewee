@@ -1,0 +1,10 @@
+# orm
+peewee
+# driver for postgresql
+psycopg2-binary
+# to hide secret data
+python-dotenv
+# to parse
+requests
+beautifulsoup4
+lxml
